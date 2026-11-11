@@ -18738,6 +18738,17 @@
     githubId = 1191859;
     name = "Maxim Krivchikov";
   };
+  Max-42 = {
+    email = "max@dyren.de";
+    github = "Max-42";
+    githubId = 68824507;
+    name = "Max";
+    keys = [
+      {
+        fingerprint = "0552 A9FB 08D4 CA34 4D5F 3CC0 9435 AEC8 D364 23C0";
+      }
+    ];
+  };
   MayNiklas = {
     email = "info@niklas-steffen.de";
     github = "MayNiklas";
